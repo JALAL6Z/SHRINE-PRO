@@ -12,6 +12,37 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_CVTPNa": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#121212",
+            "text_1": "Text with icon",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 15,
+            "margin_bottom": 0
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -306,6 +337,7 @@
         }
       },
       "block_order": [
+        "text_CVTPNa",
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
