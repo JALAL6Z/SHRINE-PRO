@@ -12,6 +12,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": true,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "text_CVTPNa": {
           "type": "text",
           "settings": {
@@ -19,7 +29,7 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "Text with icon",
+            "text_1": "Le bracelet qui réveille même les gros dormeurs. 100% silencieux.",
             "text_2": "",
             "text_3": "",
             "icon_scale": 120,
@@ -43,18 +53,9 @@
             "margin_bottom": 0
           }
         },
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h2",
-            "title_alignment": "left",
-            "uppercase_title": true,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
           "type": "rating_stars",
+          "disabled": true,
           "settings": {
             "rating": 4.4,
             "star_color": "#ffcc00",
@@ -110,6 +111,12 @@
             "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
             "margin_top": 15,
             "margin_bottom": 15
+          }
+        },
+        "custom_liquid_iPJkjJ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 13px; color: #000; flex-wrap: wrap; margin-bottom: 1.6rem;\">\n  <span><strong>Excellent</strong></span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/stars-5-1.svg?v=1732298016\"\n       alt=\"5 étoiles\"\n       style=\"height: 16px; display: inline-block;\">\n\n  <span style=\"font-weight: bold; text-decoration: underline;\">316+ avis sur</span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/TRUSTPILOT_LOGO.png?v=1732299659\"\n       alt=\"Trustpilot\"\n       style=\"height: 18px; display: inline-block;\">\n</div>"
           }
         },
         "buy_buttons": {
@@ -251,11 +258,12 @@
         }
       },
       "block_order": [
-        "text_CVTPNa",
         "title",
+        "text_CVTPNa",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "custom_liquid_iPJkjJ",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
