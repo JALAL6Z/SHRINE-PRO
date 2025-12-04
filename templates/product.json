@@ -123,7 +123,7 @@
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
             "margin_top": 12,
-            "margin_bottom": 12
+            "margin_bottom": 0
           }
         },
         "payment_badges_KpM93x": {
