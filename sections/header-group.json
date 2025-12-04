@@ -140,11 +140,34 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "ss_whatsapp_button_PnJ3Hn": {
+      "type": "ss-whatsapp-button",
+      "name": "SS - WhatsApp Chat Button",
+      "settings": {
+        "enable_section": true,
+        "whatsapp_number": "",
+        "primary_color": "#5DF878",
+        "primary_color2": "#0ABB29",
+        "secondary_color": "#095e54",
+        "icon_size": 49,
+        "button_text_size": 14,
+        "btn_position": "ss-whatsapp-button-right",
+        "btn_text": "",
+        "show_btn_text": false,
+        "show_dialog": true,
+        "dialog_name": "Kathrine",
+        "dialog_subtitle": "Usually replies within 10 minutes.",
+        "dialog_bg_color": "#ece5dd",
+        "dialog_msg": "Hi 👋 What can I help you with?",
+        "placeholder_text": "Type a message..."
+      }
     }
   },
   "order": [
     "2c2ec774-3430-481f-b927-e9c035b9d24e",
     "fe1c8c67-b84c-4466-a515-70df3134c1c0",
-    "header"
+    "header",
+    "ss_whatsapp_button_PnJ3Hn"
   ]
 }
