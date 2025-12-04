@@ -24,7 +24,6 @@
         },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
           "type": "rating_stars",
-          "disabled": true,
           "settings": {
             "rating": 4.4,
             "star_color": "#ffcc00",
@@ -40,6 +39,7 @@
         },
         "custom_liquid_FwYL9G": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 13px; color: #000; flex-wrap: wrap; margin-bottom: 1.6rem;\">\n  <span><strong>Excellent</strong></span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/stars-5-1.svg?v=1732298016\"\n       alt=\"5 étoiles\"\n       style=\"height: 16px; display: inline-block;\">\n\n  <span style=\"font-weight: bold; text-decoration: underline;\">316+ avis sur</span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/TRUSTPILOT_LOGO.png?v=1732299659\"\n       alt=\"Trustpilot\"\n       style=\"height: 18px; display: inline-block;\">\n</div>"
           }
@@ -77,7 +77,7 @@
         "custom_liquid_DCh9n8": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Affinez votre silhouette plus rapidement</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Réduisez visiblement la cellulite</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Tonifiez et raffermissez vos jambes et fesses</span>\n</li>"
+            "custom_liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Développé pour les dormeurs lourds, par les dormeurs lourds</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Garantie de réveil à 100% !</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Reveillez-vous sans déranger les autres !</span>\n</li>"
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
