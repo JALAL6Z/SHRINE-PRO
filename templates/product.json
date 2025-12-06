@@ -333,7 +333,7 @@
         "mobile_arrows_position": "pagination",
         "mobile_pagination": "dots_overlay",
         "mobile_thumbnails": "show",
-        "mobile_thumbnails_count": 4,
+        "mobile_thumbnails_count": 5,
         "mobile_scroll_padding_percentage": 0,
         "mobile_scroll_padding_pixels": 0,
         "enable_mobile_outher_spacing": true,
