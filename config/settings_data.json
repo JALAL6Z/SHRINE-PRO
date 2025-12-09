@@ -40,7 +40,8 @@
     "badge_position": "bottom left",
     "badge_corner_radius": 6,
     "sale_badge_color_scheme": "accent-2",
-    "sale_badge_text": "SAVE [percentage]",
+    "sale_badge_text": "ÉCONOMISEZ [amount]",
+    "sale_basge_discount_icon": false,
     "sold_out_badge_color_scheme": "inverse",
     "slider_arrow_size": 30,
     "accent_icons": "text",
@@ -740,8 +741,8 @@
   "platform_customizations": {
     "custom_css": [
       "/* Désactive le gras sur le prix du produit */.product__price,.price-item,.product__price .price-item--regular,.product__price .price-item--sale {font-weight: normal !important;}",
-      "/* Enlève le gras des titres des accordéons */.accordion__title,.collapsible-trigger,.collapsible-trigger__heading,.collapsible-trigger__text {font-weight: normal !important;}",
-      "/* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}"
+      " /* Enlève le gras des titres des accordéons */.accordion__title,.collapsible-trigger,.collapsible-trigger__heading,.collapsible-trigger__text {font-weight: normal !important;}",
+      " /* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}"
     ]
   }
 }
