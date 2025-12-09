@@ -204,34 +204,20 @@
             "margin_bottom": 24
           }
         },
-        "reviews_8UgFbe": {
-          "type": "reviews",
+        "collapsible_tab_PaRYB9": {
+          "type": "collapsible_tab",
           "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": false,
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
-            "stars_translate": 0,
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": false,
-            "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Ce que disent nos clients après 30 jours d’utilisation.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "heading": "Collapsible row",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
             "margin_top": 24,
-            "margin_bottom": 24
+            "margin_bottom": 0
           }
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
@@ -264,7 +250,7 @@
         "payment_badges_KpM93x",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
-        "reviews_8UgFbe",
+        "collapsible_tab_PaRYB9",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
       "custom_css": [],

@@ -739,7 +739,9 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Désactive le gras sur le prix du produit */.product__price,.price-item,.product__price .price-item--regular,.product__price .price-item--sale {font-weight: normal !important;}"
+      "/* Désactive le gras sur le prix du produit */.product__price,.price-item,.product__price .price-item--regular,.product__price .price-item--sale {font-weight: normal !important;}",
+      "/* Enlève le gras des titres des accordéons */.accordion__title,.collapsible-trigger,.collapsible-trigger__heading,.collapsible-trigger__text {font-weight: normal !important;}",
+      "/* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}"
     ]
   }
 }
