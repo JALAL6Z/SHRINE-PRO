@@ -738,6 +738,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "/* Désactive le gras sur le prix du produit */.product__price,.price-item,.product__price .price-item--regular,.product__price .price-item--sale {font-weight: normal !important;}"
+    ]
   }
 }
