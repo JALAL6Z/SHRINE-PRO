@@ -326,7 +326,7 @@
         "caption_kxprig": {
           "type": "caption",
           "settings": {
-            "caption": "Add a tagline",
+            "caption": "Fiértement recommandé par nos clients",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
@@ -418,12 +418,50 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
+        },
+        "video_slide_6RAyEk": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/63215b48e598449ea4c4b050cdf1b375.mov",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_9R8FJE": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/b40b1615e05f497a82bb34e5068d37c2.mov",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
         }
       },
       "block_order": [
         "video_slide_rUEY7m",
         "video_slide_t8QfiU",
-        "video_slide_YJ3tFW"
+        "video_slide_YJ3tFW",
+        "video_slide_6RAyEk",
+        "video_slide_9R8FJE"
       ],
       "settings": {
         "display_id": false,
