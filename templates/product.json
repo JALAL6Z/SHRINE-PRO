@@ -183,7 +183,7 @@
             "star_color": "#ffcc00",
             "stars_label": "(xxxx Avis)",
             "picker_type": "combined",
-            "desktop_show_image": true,
+            "desktop_show_image": false,
             "desktop_show_title": true,
             "desktop_rating_stars": false,
             "desktop_show_price": true,
@@ -196,9 +196,9 @@
             "mobile_show_title": true,
             "mobile_rating_stars": false,
             "mobile_show_price": true,
-            "mobile_show_sale_badge": false,
+            "mobile_show_sale_badge": true,
             "mobile_variant_picker": false,
-            "mobile_full_button_width": false,
+            "mobile_full_button_width": true,
             "mobile_show_price_in_button": false,
             "mobile_transparent_bg": false
           }
