@@ -241,6 +241,12 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
+        },
+        "custom_liquid_VpAP3i": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/ASSURANCE_CASSE_VALABLE_1_AN_3.png?v=1743413838\" style=\"width: 100%; margin-bottom: -5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/TEMPLATE_BLOC_CONTACT_1.png?v=1743413838\" style=\"width: 100%;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -258,7 +264,8 @@
         "description",
         "custom_liquid_MKEkWy",
         "collapsible_tab_PaRYB9",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "custom_liquid_VpAP3i"
       ],
       "custom_css": [],
       "settings": {
