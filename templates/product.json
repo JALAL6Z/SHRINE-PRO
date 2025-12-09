@@ -204,6 +204,12 @@
             "margin_bottom": 24
           }
         },
+        "custom_liquid_MKEkWy": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/BANNIERE_OFFRE_1.png?v=1743518241\" style=\"width: 100%; margin-bottom: 10px;\">"
+          }
+        },
         "collapsible_tab_PaRYB9": {
           "type": "collapsible_tab",
           "settings": {
@@ -250,6 +256,7 @@
         "payment_badges_KpM93x",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
+        "custom_liquid_MKEkWy",
         "collapsible_tab_PaRYB9",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
