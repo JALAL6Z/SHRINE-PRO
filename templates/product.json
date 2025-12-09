@@ -533,7 +533,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "LL...",
+        "title": "PRÉSENTÉ PAR...",
         "title_highlight_color": "#6D388B",
         "heading_size": "h2",
         "gray_logos": false,
