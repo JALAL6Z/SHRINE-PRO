@@ -505,6 +505,35 @@
         "custom_colors_text": "#121212"
       }
     },
+    "sp_headline_dRLJzL": {
+      "type": "sp-headline",
+      "name": "🚀SP - Headline",
+      "settings": {
+        "override_fonts": false,
+        "text_font": "poppins_n6",
+        "headline_font": "poppins_n4",
+        "text_size": 14,
+        "text_line_height": "inherit",
+        "headline_size": 25,
+        "headline_line_height": "inherit",
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": "#888888",
+        "headline_color": "#111111",
+        "pill_color": "#888",
+        "pill_alignment": "center",
+        "text_alignment": "center",
+        "max_width": 1000,
+        "padding_top": 25,
+        "padding_bottom": 4,
+        "padding_left": 10,
+        "padding_right": 10,
+        "element_spacing": -3,
+        "pill_thickness": 3,
+        "pill_radius": 3,
+        "headline": "PRÉSENTÉ PAR",
+        "text": ""
+      }
+    },
     "logo_list_Nhk4rr": {
       "type": "logo-list",
       "blocks": {
@@ -533,8 +562,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "PRÉSENTÉ PAR...",
-        "title_highlight_color": "#6D388B",
+        "title": "",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h2",
         "gray_logos": false,
         "color_scheme": "custom",
@@ -546,7 +575,7 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "show_dots": true,
-        "padding_top": 24,
+        "padding_top": 0,
         "padding_bottom": 8,
         "custom_colors_background": "#e8e8e8",
         "custom_gradient_background": "",
@@ -746,6 +775,7 @@
     "main",
     "rich_text_fMeWLe",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
+    "sp_headline_dRLJzL",
     "logo_list_Nhk4rr",
     "related-products",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
