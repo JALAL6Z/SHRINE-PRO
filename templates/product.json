@@ -519,7 +519,7 @@
         "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "text_color": "#888888",
         "headline_color": "#111111",
-        "pill_color": "#888",
+        "pill_color": "#3a7dff",
         "pill_alignment": "center",
         "text_alignment": "center",
         "max_width": 1000,
