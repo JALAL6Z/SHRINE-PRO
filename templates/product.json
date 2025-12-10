@@ -626,7 +626,7 @@
         "slides_mobile": 2,
         "per_move_mobile": 1,
         "mobile_spacing": 0,
-        "mobile_side_padding": 12,
+        "mobile_side_padding": 20,
         "mobile_padding_calc": true,
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
