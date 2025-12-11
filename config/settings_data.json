@@ -745,7 +745,7 @@
       " /* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}",
       "/* Réduction de la taille du texte dans le tableau comparison table */@media (max-width: 749px) {.comparison-table td, .comparison-table th, .comparison-table p, .comparison-table span {font-size: 12px !important; line-height: 1.3 !important; word-break: break-word; }}",
       "/* Empêche la colonne bleue de dépasser du tableau sur mobile */.comparison-wrapper {position: relative; overflow: hidden; border-radius: 16px; /* même arrondi que ton tableau */}",
-      "/* Optionnel : ajuste un peu la hauteur des lignes sur mobile */@media (max-width: 749px) {.comparison-wrapper table td, .comparison-wrapper table th {padding-top: 8px; padding-bottom: 8px; }}"
+      "/* Optionnel : ajuste un peu la hauteur des lignes sur mobile */@media (max-width: 749px) {.comparison-table table td, .comparison-table table th {padding-top: 8px; padding-bottom: 8px; }}"
     ]
   }
 }
