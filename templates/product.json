@@ -641,25 +641,16 @@
     "rich_text_riyJRd": {
       "type": "rich-text",
       "blocks": {
-        "caption_WTetan": {
-          "type": "caption",
-          "settings": {
-            "caption": "Fiértement recommandé par nos clients",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
         "heading_FjF9mN": {
           "type": "heading",
           "settings": {
-            "title": "PARCE QUE VOS <strong>MATINS</strong> MÉRITENT <strong>MIEUX</strong>.",
+            "title": "LE RÉVEIL QUI <strong>RESPECTE</strong> VOTRE <strong>SOMMEIL</strong>",
             "title_highlight_color": "#3a7dff",
             "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "caption_WTetan",
         "heading_FjF9mN"
       ],
       "name": "t:sections.rich-text.presets.name",
