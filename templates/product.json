@@ -789,6 +789,39 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
+    "rich_text_BKT46c": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Awec3F": {
+          "type": "heading",
+          "settings": {
+            "title": "QU'EST-CE QUI REND <strong>FITSLEEPS</strong> DIFFÉRENT ?",
+            "title_highlight_color": "#3a7dff",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Awec3F"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 44,
+        "padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "comparison_table_X9EthX": {
       "type": "comparison-table",
       "blocks": {
@@ -865,10 +898,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Comparison table",
+        "title": "",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "text": "",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -1019,6 +1052,7 @@
     "rich_text_riyJRd",
     "related-products",
     "multicolumn_PYjbja",
+    "rich_text_BKT46c",
     "comparison_table_X9EthX",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f"
   ]
