@@ -320,10 +320,10 @@
         "desktop_padding_bottom": 40
       }
     },
-    "rich_text_fMeWLe": {
+    "rich_text_Uj4QrV": {
       "type": "rich-text",
       "blocks": {
-        "caption_kxprig": {
+        "caption_Wj6GaB": {
           "type": "caption",
           "settings": {
             "caption": "Fiértement recommandé par nos clients",
@@ -331,7 +331,7 @@
             "text_size": "medium"
           }
         },
-        "heading_3wLL6b": {
+        "heading_XJFyyQ": {
           "type": "heading",
           "settings": {
             "title": "PARCE QUE VOS <strong>MATINS</strong> MÉRITENT <strong>MIEUX</strong>.",
@@ -341,8 +341,8 @@
         }
       },
       "block_order": [
-        "caption_kxprig",
-        "heading_3wLL6b"
+        "caption_Wj6GaB",
+        "heading_XJFyyQ"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -962,6 +962,84 @@
         "custom_colors_others_text": "#2e2a39"
       }
     },
+    "rich_text_fMeWLe": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_kxprig": {
+          "type": "caption",
+          "settings": {
+            "caption": "Enfin un réveil à votre rythme",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_3wLL6b": {
+          "type": "heading",
+          "settings": {
+            "title": "DES MATINS PLUS CALMES, PLUS SIMPLES",
+            "title_highlight_color": "#3a7dff",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "caption_kxprig",
+        "heading_3wLL6b"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 12,
+        "padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_with_text_6rQhb8": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/IMG_4943.jpg",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
       "type": "testimonials",
       "blocks": {
@@ -1045,7 +1123,7 @@
   },
   "order": [
     "main",
-    "rich_text_fMeWLe",
+    "rich_text_Uj4QrV",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "sp_headline_dRLJzL",
     "image_slider_agFYFX",
@@ -1054,6 +1132,8 @@
     "multicolumn_PYjbja",
     "rich_text_BKT46c",
     "comparison_table_X9EthX",
+    "rich_text_fMeWLe",
+    "image_with_text_6rQhb8",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f"
   ]
 }
