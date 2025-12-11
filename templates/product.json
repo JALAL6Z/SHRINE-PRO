@@ -727,7 +727,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "button_label": "",
         "button_link": "",
@@ -777,16 +777,16 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 8,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_heading": "#222126",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "comparison_table_X9EthX": {
@@ -795,9 +795,9 @@
         "row_MY8MRJ": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Utilisé comme alarme",
             "us": true,
-            "others": false,
+            "others": true,
             "others_2": true,
             "others_3": false
           }
@@ -805,7 +805,7 @@
         "row_cCznfa": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Fiable pour les personnes qui font la grasse matinée",
             "us": true,
             "others": false,
             "others_2": false,
@@ -815,7 +815,37 @@
         "row_tByipA": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "Longue autonomie de la batterie",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_BfNmHY": {
+          "type": "row",
+          "settings": {
+            "benefit": "Réveil silencieux et adapté aux partenaires",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_7xkdTF": {
+          "type": "row",
+          "settings": {
+            "benefit": "Anti-sommeil",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_brp7RY": {
+          "type": "row",
+          "settings": {
+            "benefit": "Essai sans risque de 100 jours",
             "us": true,
             "others": false,
             "others_2": false,
@@ -826,14 +856,17 @@
       "block_order": [
         "row_MY8MRJ",
         "row_cCznfa",
-        "row_tByipA"
+        "row_tByipA",
+        "row_BfNmHY",
+        "row_7xkdTF",
+        "row_brp7RY"
       ],
       "name": "Comparison table",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
         "title": "Comparison table",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "<p>Talk about how and why is your brand better than the others.</p>",
         "button_label": "",
@@ -850,12 +883,12 @@
         "corner_radius": 12,
         "number_of_competitors": 2,
         "us_label": "[shop_name]",
-        "us_label_size": 18,
+        "us_label_size": 19,
         "logo": "shopify://shop_images/ADS_-_BLACK_FRIDAY_ba0368ca-c5ca-43bf-a5ca-f65ce713d7f6.png",
         "logo_width": 90,
         "mobile_logo_width": 60,
         "others_label": "Others",
-        "others_label_size": 18,
+        "others_label_size": 16,
         "others_logo": "shopify://shop_images/ADS_-_BLACK_FRIDAY_1.png",
         "others_logo_width": 90,
         "others_mobile_logo_width": 60,
@@ -869,8 +902,8 @@
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "solid",
         "x_color": "#ffffff",
         "x_bg_color": "#cacaca",
@@ -884,16 +917,16 @@
         "minimalistic_border_opacity": 16,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#0d46b7",
+        "custom_colors_background": "#003bb0",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_colors_highlighted_background": "#2E2A39",
-        "custom_colors_highlighted_text": "#FFFFFF",
-        "custom_colors_others_background": "#FFFFFF",
-        "custom_colors_others_text": "#2E2A39"
+        "custom_colors_highlighted_background": "#014dab",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
