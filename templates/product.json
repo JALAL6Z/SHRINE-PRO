@@ -15,11 +15,11 @@
         "text_WtWwz8": {
           "type": "text",
           "settings": {
-            "mobile_text_size": 14,
+            "mobile_text_size": 12,
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "ÉLU #1 DES RÉVEILS SILENCIEUX 2025",
+            "text_1": "ÉLU <strong>#1</strong> DES RÉVEILS SILENCIEUX 2025",
             "text_2": "",
             "text_3": "",
             "icon_scale": 120,
@@ -30,17 +30,17 @@
             "filled_icon_2": false,
             "icon_3": "check_circle",
             "filled_icon_3": false,
-            "width": "100%",
+            "width": "fit-content",
             "direction": "horizontal",
-            "column_gap": 3,
-            "enable_bg": false,
+            "column_gap": 2,
+            "enable_bg": true,
             "bg_color": "#f3f3f3",
-            "corner_radius": 40,
-            "padding": 3,
+            "corner_radius": 5,
+            "padding": 1.5,
             "border_size": 0,
             "border_color": "#b7b7b7",
             "margin_top": 15,
-            "margin_bottom": 0
+            "margin_bottom": 3
           }
         },
         "title": {
