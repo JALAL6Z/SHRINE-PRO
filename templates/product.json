@@ -274,7 +274,9 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "custom_liquid_VpAP3i"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "/* Force FAQ titles to regular even if theme uses heading classes */details summary,.accordion summary,.accordion__title,summary .h1,summary .h2,summary .h3,summary .h4,summary .h5,summary .h6,summary [class*=\"h-\"],summary [class*=\"heading\"],summary [class*=\"title\"] {font-family: var(--font-body-family) !important; font-weight: 400 !important; text-transform: none !important;}"
+      ],
       "settings": {
         "display_id": false,
         "enable_sticky_info": false,
@@ -1089,6 +1091,9 @@
         "collapsible_row_UFdbPm",
         "collapsible_row_hTkLrd",
         "collapsible_row_iTh9Mh"
+      ],
+      "custom_css": [
+        "/* Force FAQ titles to regular even if theme uses heading classes */details summary,.accordion summary,.accordion__title,summary .h1,summary .h2,summary .h3,summary .h4,summary .h5,summary .h6,summary [class*=\"h-\"],summary [class*=\"heading\"],summary [class*=\"title\"] {font-family: var(--font-body-family) !important; font-weight: 400 !important; text-transform: none !important;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
