@@ -424,6 +424,130 @@
         "custom_colors_text": "#2E2A39"
       }
     },
+    "featured_collection_8a7Rbf": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Featured collection",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "color_scheme": "background-1",
+        "collection": "frontpage",
+        "products_to_show": 9,
+        "stretch_cards": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "cards_color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "badges": "regular",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "swatches_option_name": "",
+        "swatches_position": "top",
+        "swatches_desktop_size": 36,
+        "swatches_mobile_size": 24,
+        "type": "loop",
+        "autoplay": false,
+        "autoplay_speed": 2.5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "2",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
+    "bundle_deals_Aqj6RP": {
+      "type": "bundle-deals",
+      "blocks": {
+        "product_p8MpLc": {
+          "type": "product",
+          "settings": {
+            "product": "bracelet-alarme-de-reveil",
+            "percentage_discount": "0",
+            "fixed_amount_discount": "0",
+            "required": false
+          }
+        },
+        "product_KnyQeQ": {
+          "type": "product",
+          "settings": {
+            "product": "breathe-easy-bundle",
+            "percentage_discount": "70",
+            "fixed_amount_discount": "0",
+            "required": false
+          }
+        },
+        "product_gF64CD": {
+          "type": "product",
+          "settings": {
+            "product": "add-a-travel-case-copy",
+            "percentage_discount": "70",
+            "fixed_amount_discount": "0",
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "product_p8MpLc",
+        "product_KnyQeQ",
+        "product_gF64CD"
+      ],
+      "name": "Bundle deals",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Pack <strong>sommeil ultime</strong>",
+        "title_highlight_color": "#3a7dff",
+        "heading_size": "h2",
+        "text": "",
+        "color_scheme": "background-1",
+        "layout": "horizontal-images-left",
+        "enable_price_changes": true,
+        "skip_unavailable": false,
+        "prices_under": true,
+        "skip_cart": false,
+        "total_price_label": "Total :",
+        "btn_label": "Obtenir mon pack",
+        "percentage_discount": "",
+        "fixed_amount_discount": "0",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_accent": "#dd1d1d",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -767,6 +891,8 @@
     "featured_product_kpUqRU",
     "rich_text_VpMJDe",
     "collage_h89a4Y",
+    "featured_collection_8a7Rbf",
+    "bundle_deals_Aqj6RP",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
