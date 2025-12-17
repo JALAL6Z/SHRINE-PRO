@@ -282,10 +282,41 @@
     "featured_product_kpUqRU": {
       "type": "featured-product",
       "blocks": {
+        "text_KaRmMY": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 12,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#121212",
+            "text_1": "ÉLU <strong>#1</strong> DES RÉVEILS SILENCIEUX 2025",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "check_circle",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "enable_bg": true,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "title_VEpnTx": {
           "type": "title",
           "settings": {
-            "text_size": "h1",
+            "text_size": "h2",
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
@@ -419,6 +450,7 @@
         }
       },
       "block_order": [
+        "text_KaRmMY",
         "title_VEpnTx",
         "price_9iUixp",
         "variant_picker_TMMkDR",
