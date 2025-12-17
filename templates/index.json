@@ -409,8 +409,16 @@
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 24,
-            "margin_bottom": 24
+            "margin_top": 9,
+            "margin_bottom": 6
+          }
+        },
+        "payment_badges_wAcr6c": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "apple_pay, google_pay, master, visa, stripe, klarna",
+            "margin_top": 0,
+            "margin_bottom": 15
           }
         }
       },
@@ -422,7 +430,8 @@
         "custom_liquid_888hM6",
         "variant_picker_TMMkDR",
         "custom_liquid_CeUxBr",
-        "buy_buttons_AEBWHR"
+        "buy_buttons_AEBWHR",
+        "payment_badges_wAcr6c"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
