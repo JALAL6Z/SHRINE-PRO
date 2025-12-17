@@ -337,6 +337,63 @@
         "padding_bottom": 36
       }
     },
+    "horizontal_ticker_3DTiKe": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_nxRjUj": {
+          "type": "text",
+          "settings": {
+            "title": "FitSleeps."
+          }
+        },
+        "text_TPXtX9": {
+          "type": "text",
+          "settings": {
+            "title": "FitSleeps."
+          }
+        },
+        "text_dGcc9d": {
+          "type": "text",
+          "settings": {
+            "title": "FitSleeps."
+          }
+        }
+      },
+      "block_order": [
+        "text_nxRjUj",
+        "text_TPXtX9",
+        "text_dGcc9d"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#3a7dff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff"
+      }
+    },
     "rich_text_VpMJDe": {
       "type": "rich-text",
       "blocks": {
@@ -889,6 +946,7 @@
     "sp_headline_nrLnPy",
     "image_slider_G7nzCj",
     "featured_product_kpUqRU",
+    "horizontal_ticker_3DTiKe",
     "rich_text_VpMJDe",
     "collage_h89a4Y",
     "featured_collection_8a7Rbf",
