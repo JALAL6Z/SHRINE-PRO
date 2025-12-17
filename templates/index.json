@@ -125,7 +125,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -158,7 +158,7 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
@@ -178,7 +178,7 @@
           "type": "heading",
           "settings": {
             "title": "DES MATINS PLUS CALMES, PLUS SIMPLES",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         }
@@ -195,11 +195,11 @@
         "content_alignment": "center",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 24,
+        "padding_top": 28,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -237,7 +237,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "desktop_layout": "right",
         "mobile_layout": "collage",
@@ -245,9 +245,9 @@
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 8,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "horizontal_ticker_3DTiKe": {
@@ -496,12 +496,12 @@
         "color_scheme": "background-1",
         "collection": "frontpage",
         "products_to_show": 9,
-        "stretch_cards": false,
+        "stretch_cards": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "cards_color_scheme": "background-1",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "badges": "regular",
         "show_vendor": false,
         "show_rating": false,
@@ -511,7 +511,7 @@
         "swatches_desktop_size": 36,
         "swatches_mobile_size": 24,
         "type": "loop",
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 2.5,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
@@ -534,9 +534,9 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 8,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
@@ -598,9 +598,9 @@
         "fixed_amount_discount": "0",
         "padding_top": 0,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_accent": "#dd1d1d",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
