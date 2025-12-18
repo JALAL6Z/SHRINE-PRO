@@ -15,10 +15,11 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-12-18_a_16.06.04.png",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
