@@ -121,7 +121,7 @@
           "type": "variant_picker",
           "settings": {
             "picker_types": "swatches",
-            "custom_labels": "[name] - [selected]",
+            "custom_labels": "[name_uppercase]",
             "skip_unavailable": false,
             "swatches_size": "medium",
             "swatches_custom_colors": "disabled",
