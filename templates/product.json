@@ -219,14 +219,14 @@
         "collapsible_tab_PaRYB9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "QUI SOMME NOUS ?",
+            "heading": "COMMENT FONCTIONNE FITSLEEPS ?",
             "heading_size": "small",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>KKDKDKKD</p>",
+            "content": "<p>FitSleeps utilise une <strong>vibration douce et progressive</strong> directement au poignet pour vous réveiller, sans bruit. Cela permet un réveil naturel, sans stress et sans déranger votre entourage.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -235,14 +235,62 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "SATISFAIT OU REMBOURSE",
+            "heading": "EST-CE QUE FITSLEEPS FAIT DU BRUIT ?",
             "heading_size": "small",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>KSDKDKDS</p>",
+            "content": "<p>Non. FitSleeps est <strong>100 % silencieux</strong>. Il est idéal pour les couples ou les personnes souhaitant se réveiller discrètement.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_qnBTf6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "QUELLE EST L’AUTONOMIE DE LA BATTERIE ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>FitSleeps offre une <strong>longue autonomie</strong>, pouvant aller jusqu’à plusieurs jours selon l’utilisation. Il se recharge facilement.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_3xJtUV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "QUE SE PASSE-T-IL SI LE PRODUIT NE ME CONVIENT PAS ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Aucun risque.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_6Hrfg6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SATISFAIT OU REMBOURSÉ",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Essayez FitSleeps chez vous, en toute tranquillité.<br/><br/>Si vous n’êtes pas entièrement satisfait, vous disposez de <strong>90 jours pour demander un remboursement</strong>, sans justification.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -272,6 +320,9 @@
         "custom_liquid_MKEkWy",
         "collapsible_tab_PaRYB9",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_qnBTf6",
+        "collapsible_tab_3xJtUV",
+        "collapsible_tab_6Hrfg6",
         "custom_liquid_VpAP3i"
       ],
       "custom_css": [
