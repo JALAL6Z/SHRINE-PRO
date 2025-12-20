@@ -408,26 +408,12 @@
         "text_nxRjUj": {
           "type": "text",
           "settings": {
-            "title": "FitSleeps."
-          }
-        },
-        "text_TPXtX9": {
-          "type": "text",
-          "settings": {
-            "title": "FitSleeps."
-          }
-        },
-        "text_dGcc9d": {
-          "type": "text",
-          "settings": {
-            "title": "FitSleeps."
+            "title": "La technologie au service du sommeil"
           }
         }
       },
       "block_order": [
-        "text_nxRjUj",
-        "text_TPXtX9",
-        "text_dGcc9d"
+        "text_nxRjUj"
       ],
       "name": "Horizontal Ticker",
       "settings": {
@@ -438,11 +424,11 @@
         "mobile_spacing": 60,
         "desktop_spacing": 100,
         "color_scheme": "custom",
-        "mobile_text_size": 16,
+        "mobile_text_size": 13,
         "desktop_text_size": 18,
         "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
+        "uppercase_text": true,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
@@ -465,24 +451,24 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Nos indispensables pour <strong>mieux dormir</strong>",
+        "title": "NOS INDISPENSABLES POUR <strong>MIEUX DORMIR</strong>",
         "title_highlight_color": "#3a7dff",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "color_scheme": "background-1",
-        "collection": "frontpage",
+        "collection": "bestsellers",
         "products_to_show": 9,
         "stretch_cards": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "cards_color_scheme": "background-1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": true,
         "badges": "regular",
         "show_vendor": false,
-        "show_rating": false,
+        "show_rating": true,
         "enable_quick_add": false,
         "swatches_option_name": "",
         "swatches_position": "top",
@@ -508,9 +494,9 @@
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": true,
-        "mobile_dots_position": "hidden",
+        "mobile_dots_position": "under",
         "mobile_arrows_position": "hidden",
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 8,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
