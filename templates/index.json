@@ -466,7 +466,7 @@
         "cards_color_scheme": "background-1",
         "image_ratio": "square",
         "show_secondary_image": true,
-        "badges": "regular",
+        "badges": "disabled",
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": false,
