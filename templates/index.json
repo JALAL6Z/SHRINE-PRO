@@ -186,7 +186,7 @@
             "filled_icon_2": false,
             "icon_3": "check_circle",
             "filled_icon_3": false,
-            "width": "100%",
+            "width": "fit-content",
             "direction": "horizontal",
             "column_gap": 3,
             "enable_bg": true,
