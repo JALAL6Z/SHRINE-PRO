@@ -332,7 +332,7 @@
           "settings": {
             "caption": "Enfin un réveil à votre rythme",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_size": "small"
           }
         },
         "heading_RKtFnf": {
@@ -352,8 +352,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 28,
@@ -366,49 +366,40 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
-    "collage_h89a4Y": {
-      "type": "collage",
-      "blocks": {
-        "image_VkAXPH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Titel_3_kopie.webp"
-          }
-        },
-        "image_NDbr4K": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/9_b5fa41d7-6e7d-44ee-a908-351cbb15db05.webp"
-          }
-        },
-        "image_8nVzjM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Les_faits_ne_mentent_pas_nos_clients_l_adorent.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_VkAXPH",
-        "image_NDbr4K",
-        "image_8nVzjM"
-      ],
-      "name": "t:sections.collage.presets.name",
+    "image_with_text_NzYBtp": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "image": "shopify://shop_images/Titel_3_kopie.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 8,
-        "custom_colors_background": "#ffffff",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": true,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39"
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
       }
     },
     "horizontal_ticker_3DTiKe": {
@@ -833,7 +824,7 @@
     "image_slider_G7nzCj",
     "featured_product_kpUqRU",
     "rich_text_VpMJDe",
-    "collage_h89a4Y",
+    "image_with_text_NzYBtp",
     "horizontal_ticker_3DTiKe",
     "featured_collection_8a7Rbf",
     "bundle_deals_Aqj6RP",
