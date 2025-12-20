@@ -392,13 +392,13 @@
         "mobile_padding_bottom": 0,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -496,13 +496,122 @@
         "mobile_adaptive_height": true,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "hidden",
-        "padding_top": 24,
+        "padding_top": 36,
         "padding_bottom": 8,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
+    "multicolumn_JzHjUh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_AyCiD8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.50.27.png",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_E7kchc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.51.02.png",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cFgmz8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.51.31.png",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AyCiD8",
+        "column_E7kchc",
+        "column_cFgmz8"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "À QUI EST DESTINÉ <strong>FITSLEEPS</strong> ?",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "left",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2E2A39"
       }
     },
     "bundle_deals_Aqj6RP": {
@@ -802,28 +911,6 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
-    },
-    "parallax_hero_UVT4a9": {
-      "type": "parallax-hero",
-      "name": "3D Parallax hero",
-      "settings": {
-        "visibility": "always-display",
-        "animation_start": "top",
-        "min_desktop_height_type": "pixels",
-        "desktop_pixels_height": 600,
-        "min_mobile_height_type": "pixels",
-        "mobile_pixels_height": 400,
-        "transparent_header": false,
-        "transparent_header_text_color": "text",
-        "transparent_header_highlighted_link_color": "background-1",
-        "transparent_header_hover_link_color": "accent-1",
-        "transparent_header_logo": "main",
-        "hide_announcement_bars": false,
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
     }
   },
   "order": [
@@ -835,10 +922,10 @@
     "image_with_text_NzYBtp",
     "horizontal_ticker_3DTiKe",
     "featured_collection_8a7Rbf",
+    "multicolumn_JzHjUh",
     "bundle_deals_Aqj6RP",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "contact_form_WHP8G7",
-    "parallax_hero_UVT4a9"
+    "contact_form_WHP8G7"
   ]
 }
