@@ -513,8 +513,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.50.27.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "GROS DORMEURS",
+            "text": "<p>96 % des personnes ayant un sommeil lourd ont déclaré que <strong>FITSLEEPS</strong> les avait enfin réveillés à l'heure, sans stresse.</p>",
             "link_label": "",
             "link": ""
           }
@@ -524,8 +524,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.51.02.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "COUPLES",
+            "text": "<p>91 % des couples ont déclaré mieux dormir ensemble depuis que <strong>FITSLEEPS</strong> permet à l'un de se réveiller pendant que l'autre continue de dormir.</p>",
             "link_label": "",
             "link": ""
           }
@@ -535,8 +535,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_a_00.51.31.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "LÈVE-TÔT",
+            "text": "<p>88 % des lève-tôt ont déclaré se réveiller désormais plus calmes, plus reposés et sans le stress lié aux multiples alarmes pour être sûrs de se réveiller.</p>",
             "link_label": "",
             "link": ""
           }
@@ -552,7 +552,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "À QUI EST DESTINÉ <strong>FITSLEEPS</strong> ?",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#3a7dff",
         "heading_size": "h2",
         "button_label": "",
         "button_link": "",
@@ -561,23 +561,23 @@
         "atc_skip_cart": false,
         "color_scheme": "background-1",
         "cards_color_scheme": "bg-overlay",
-        "cards_corner_radius": 20,
-        "stretch_cards": false,
+        "cards_corner_radius": 14,
+        "stretch_cards": true,
         "stretched_cards_content_alignment": "center",
         "image_width": "full",
         "image_ratio": "square",
         "media_position": "top",
-        "column_alignment": "left",
+        "column_alignment": "center",
         "desktop_heading_size": 24,
-        "mobile_heading_size": 22,
+        "mobile_heading_size": 19,
         "desktop_text_size": 16,
-        "mobile_text_size": 15,
+        "mobile_text_size": 13,
         "desktop_text_top_margin": 10,
-        "mobile_text_top_margin": 10,
+        "mobile_text_top_margin": 4,
         "desktop_container_padding_y": 24,
         "desktop_container_padding_x": 24,
-        "mobile_container_padding_y": 24,
-        "mobile_container_padding_x": 24,
+        "mobile_container_padding_y": 4,
+        "mobile_container_padding_x": 14,
         "type": "slide",
         "autoplay": false,
         "autoplay_speed": 5,
