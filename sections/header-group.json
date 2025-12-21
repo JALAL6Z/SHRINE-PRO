@@ -158,9 +158,9 @@
         "show_dialog": true,
         "dialog_header_img": "shopify://shop_images/Copie_de_Serelys.png",
         "dialog_name": "FIT SLEEPS",
-        "dialog_subtitle": "Répond généralement dans les 10 minutes.",
+        "dialog_subtitle": "En Ligne",
         "dialog_bg_color": "#ece5dd",
-        "dialog_msg": "Salut 👋 Avec quoi puis-je vous aider ?",
+        "dialog_msg": "Salut 👋 en quoi puis-je vous aider ?",
         "placeholder_text": "Tapez un message..."
       }
     }
