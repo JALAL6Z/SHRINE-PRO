@@ -68,11 +68,12 @@
             "text_color": "#585858",
             "block_aligment": "left",
             "margin_top": 10,
-            "margin_bottom": 0
+            "margin_bottom": 14
           }
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
