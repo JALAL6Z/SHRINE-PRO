@@ -146,21 +146,22 @@
       "name": "SS - WhatsApp Chat Button",
       "settings": {
         "enable_section": true,
-        "whatsapp_number": "",
+        "whatsapp_number": "+610590337",
         "primary_color": "#5df878",
         "primary_color2": "#0abb29",
         "secondary_color": "#095e54",
-        "icon_size": 49,
+        "icon_size": 52,
         "button_text_size": 14,
         "btn_position": "ss-whatsapp-button-right",
         "btn_text": "",
         "show_btn_text": false,
         "show_dialog": true,
-        "dialog_name": "Kathrine",
-        "dialog_subtitle": "Usually replies within 10 minutes.",
+        "dialog_header_img": "shopify://shop_images/LOGO_FITSLEEPS.png",
+        "dialog_name": "FIT SLEEPS",
+        "dialog_subtitle": "Répond généralement dans les 10 minutes.",
         "dialog_bg_color": "#ece5dd",
-        "dialog_msg": "Hi 👋 What can I help you with?",
-        "placeholder_text": "Type a message..."
+        "dialog_msg": "Salut 👋 Avec quoi puis-je vous aider ?",
+        "placeholder_text": "Tapez un message..."
       }
     }
   },
