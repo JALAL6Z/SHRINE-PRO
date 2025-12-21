@@ -53,26 +53,22 @@
             "margin_bottom": 9
           }
         },
-        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
-          "type": "rating_stars",
-          "settings": {
-            "rating": 4.4,
-            "star_color": "#ffcc00",
-            "bg_stars_style": "full",
-            "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
-            "alignment": "flex-start",
-            "scroll_id": "",
-            "margin_top": 0,
-            "margin_bottom": 9
-          }
-        },
         "custom_liquid_FwYL9G": {
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 13px; color: #000; flex-wrap: wrap; margin-bottom: 1.6rem;\">\n  <span><strong>Excellent</strong></span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/stars-5-1.svg?v=1732298016\"\n       alt=\"5 étoiles\"\n       style=\"height: 16px; display: inline-block;\">\n\n  <span style=\"font-weight: bold; text-decoration: underline;\">316+ avis sur</span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/TRUSTPILOT_LOGO.png?v=1732299659\"\n       alt=\"Trustpilot\"\n       style=\"height: 18px; display: inline-block;\">\n</div>"
+          }
+        },
+        "trustoo_io_reviews_star_rating_widget_QFDiEM": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/star-rating-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 20,
+            "font_size": 16,
+            "text_color": "#585858",
+            "block_aligment": "left",
+            "margin_top": 10,
+            "margin_bottom": 0
           }
         },
         "price": {
@@ -306,8 +302,8 @@
       "block_order": [
         "text_WtWwz8",
         "title",
-        "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "custom_liquid_FwYL9G",
+        "trustoo_io_reviews_star_rating_widget_QFDiEM",
         "price",
         "custom_liquid_EiCHfq",
         "divider_M6tM9n",
