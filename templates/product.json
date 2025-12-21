@@ -1150,44 +1150,26 @@
         "custom_section_gradient_background": ""
       }
     },
-    "176631770838bee584": {
-      "type": "apps",
-      "blocks": {
-        "trustoo_io_reviews_review_widget_NJp46V": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-          "settings": {
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "trustoo_io_reviews_review_widget_NJp46V"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
-    },
     "collapsible_content_yPJn84": {
       "type": "collapsible-content",
       "blocks": {
         "collapsible_row_NxnA4p": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Les réveils classiques ne me réveillent jamais. Ce bracelet est-il vraiment efficace ?",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Oui ! Ce réveil a été spécialement conçu pour les gros dormeurs et les personnes qui ne se réveillent pas avec les réveils traditionnels ou les lampes simulateurs d’aube. Il utilise une vibration puissante pour réveiller même les dormeurs les plus profonds. Testé sur plus de 500 utilisateurs : <strong>99 % se sont réveillés à l’heure </strong>pendant une période d’essai de 30 jours. Beaucoup ont enfin trouvé une solution efficace</p>",
             "page": ""
           }
         },
         "collapsible_row_UFdbPm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Puis-je régler l’intensité des vibrations ?",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Le réveil silencieux FITSLEEPS a été conçu pour <strong>augmenter progressivement l’intensité de ses vibrations</strong>, du plus doux au plus fort. Cette montée progressive permet un réveil naturel, tout en restant efficace, quelle que soit votre sensibilité. Cette version s’adapte à presque tous les profils de dormeurs</p>",
             "page": ""
           }
         },
@@ -1226,9 +1208,9 @@
         "display_id": false,
         "visibility": "always-display",
         "caption": "",
-        "title": "Collapsible content",
+        "title": "Questions fréquemment posées",
         "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
@@ -1248,6 +1230,24 @@
         "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "176631770838bee584": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_NJp46V": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_NJp46V"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
       }
     }
   },
