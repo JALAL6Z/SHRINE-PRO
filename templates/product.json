@@ -1176,20 +1176,20 @@
         "collapsible_row_hTkLrd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Quelle est l’autonomie de la batterie ?",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>La batterie du bracelet peut durer <strong>jusqu’à 14 jours </strong>avec une seule charge, en fonction de votre utilisation. Et bonne nouvelle: <strong>le rechargement est rapide et facile </strong>grâce à notre connecteur USB</p>",
             "page": ""
           }
         },
         "collapsible_row_iTh9Mh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Est-ce que le bracelet peut se détacher pendant la nuit ?",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Non, le bracelet est renforcé et ajustable. Une fois correctement attaché à votre poignet, il reste en place toute la nuit, même si vous bougez beaucoup.</p>",
             "page": ""
           }
         }
