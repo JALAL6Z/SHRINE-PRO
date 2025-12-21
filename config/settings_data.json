@@ -220,7 +220,7 @@
       "promo-popup": {
         "type": "promo-popup",
         "settings": {
-          "mode": "testing",
+          "mode": "enabled",
           "popup_seconds": 5,
           "popup_days": 30,
           "display_timer": true,
@@ -235,15 +235,15 @@
           "button_label": "OBTENIR MA RÉDUCTION À DURÉE LIMITÉE",
           "dismiss_btn_label": "Non merci, je préfère payer le prix fort",
           "discount_code": "SLEEPS10",
-          "success_heading_prefix": "Enjoy your",
-          "success_heading": "DISCOUNT!",
+          "success_heading_prefix": "PROFITER DE VOTRE",
+          "success_heading": "REMISE !",
           "success_heading_size": "h1",
           "success_heading_suffix": "",
-          "success_text": "<p>Use the code bellow to get 10% off your whole order!</p>",
-          "discount_code_label": "Discount code:",
-          "copy_button_label": "Copy",
-          "copy_message": "Code copied successfully!",
-          "success_dismiss_btn_label": "Close",
+          "success_text": "<p>Utilisez le code ci-dessous pour obtenir 10% de réduction sur toute votre commande !</p>",
+          "discount_code_label": "CODE PROMO :",
+          "copy_button_label": "COPIER",
+          "copy_message": "Code copié avec succès !",
+          "success_dismiss_btn_label": "FERMER",
           "success_display_image": true
         }
       },
