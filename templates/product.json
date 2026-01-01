@@ -210,7 +210,7 @@
         "custom_liquid_MKEkWy": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0975/7363/4396/files/Capture_d_ecran_2025-12-09_a_13.22.01.png?v=1765282939\" style=\"width: 100%; margin-bottom: 10px;\">"
+            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0975/7363/4396/files/Capture_d_ecran_2026-01-01_a_17.49.02.png?v=1767286162\" style=\"width: 100%; margin-bottom: 10px;\">"
           }
         },
         "collapsible_tab_PaRYB9": {
@@ -346,10 +346,10 @@
         "timeline_color": "accent-1",
         "media_size": "medium",
         "media_position": "left",
-        "gallery_layout": "columns",
-        "desktop_thumbnails_count": 5,
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_count": 4,
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "desktop_arrows_position": "sides",
         "mobile_media_corner_radius": 0,
         "mobile_spacing_pixels": 0,
