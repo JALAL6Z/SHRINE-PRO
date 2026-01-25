@@ -603,6 +603,11 @@
         "type": "shopify://apps/moon-bundles-upsell-free-gifts/blocks/app-embed/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
         "disabled": false,
         "settings": {}
+      },
+      "3991723993231535834": {
+        "type": "shopify://apps/trackbee-connect/blocks/trackbee/4ee1d514-671e-48bf-bd4e-9373f4af089a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
